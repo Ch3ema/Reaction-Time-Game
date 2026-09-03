@@ -64,7 +64,8 @@ void loop() {
     int current_state_2 = digitalRead(button_2);
 
     if (!start_led_flash) {
-      delay(random(100, 150));
+      randomSeed(analogRead(A0));   
+      delay(random(1000, 4000));    
 
       pinMode(led_3, OUTPUT);
       pinMode(buzzer, OUTPUT);
