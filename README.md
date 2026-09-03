@@ -4,7 +4,7 @@ A two-player reaction time game on an Arduino Uno. An LED and buzzer
 fire after a randomized delay, and the first player to hit their button
 wins the round. Best of 5, with live times and running score on a 16x2 LCD.
 
-<img width="568" height="1024" alt="IMG_2337" src="https://github.com/user-attachments/assets/e7f8d661-c1dc-4065-bace-af71122afc78" />
+<img width="300" alt="IMG_2337" src="https://github.com/user-attachments/assets/e7f8d661-c1dc-4065-bace-af71122afc78" />
 
 
 
